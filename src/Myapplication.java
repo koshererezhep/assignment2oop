@@ -18,6 +18,6 @@ public class Myapplication {
         for (Payable p : payables) {
             System.out.println(p + " earns " + p.getPaymentAmount() + " tenge");
         }
-    }1
+    }
 
 }
